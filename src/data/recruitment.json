@@ -252,6 +252,86 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -687,6 +767,124 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -761,6 +959,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -772,6 +971,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -783,6 +983,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -794,9 +995,22 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
+          "Robot"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -1028,6 +1242,65 @@
         ]
       },
       {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_127_estell",
         "name": "Estelle",
         "rarity": 4,
@@ -1209,6 +1482,27 @@
         ]
       },
       {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
         "id": "char_123_fang",
         "name": "Fang",
         "rarity": 3,
@@ -1317,6 +1611,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -1328,9 +1623,22 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
+          "Robot"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -1551,6 +1859,65 @@
         ]
       },
       {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_385_finlpp",
         "name": "Purestream",
         "rarity": 4,
@@ -1699,6 +2066,38 @@
         ]
       },
       {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
         "id": "char_211_adnach",
         "name": "Adnachiel",
         "rarity": 3,
@@ -1813,6 +2212,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -1824,6 +2224,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -1863,6 +2264,30 @@
         ]
       },
       {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_141_nights",
         "name": "Haze",
         "rarity": 4,
@@ -1890,6 +2315,17 @@
         "tags": [
           "AoE",
           "Slow",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
           "Ranged",
           "Caster"
         ]
@@ -2004,6 +2440,18 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_199_yak",
         "name": "Matterhorn",
         "rarity": 4,
@@ -2063,6 +2511,18 @@
           "Starter",
           "Melee",
           "Defender"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
         ]
       }
     ],
@@ -2128,6 +2588,29 @@
         "tags": [
           "AoE",
           "Survival",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -2220,6 +2703,16 @@
         ]
       },
       {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
         "id": "char_208_melan",
         "name": "Melantha",
         "rarity": 3,
@@ -2256,6 +2749,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -2371,6 +2865,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -2477,6 +2972,29 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_235_jesica",
         "name": "Jessica",
         "rarity": 4,
@@ -2542,6 +3060,16 @@
         ]
       },
       {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
         "id": "char_211_adnach",
         "name": "Adnachiel",
         "rarity": 3,
@@ -2586,6 +3114,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -2692,10 +3221,22 @@
         ]
       },
       {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
         "id": "char_376_therex",
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -2771,11 +3312,34 @@
         ]
       },
       {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_183_skgoat",
         "name": "Earthspirit",
         "rarity": 4,
         "tags": [
           "Slow",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
           "Ranged",
           "Supporter"
         ]
@@ -2825,6 +3389,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -2976,6 +3564,42 @@
         ]
       },
       {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_127_estell",
         "name": "Estelle",
         "rarity": 4,
@@ -3104,10 +3728,21 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
       }
     ],
     "guarantees": [
-      5
+      4
     ]
   },
   "DP-Recovery": {
@@ -3142,6 +3777,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -3413,6 +4072,76 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_141_nights",
         "name": "Haze",
         "rarity": 4,
@@ -3569,6 +4298,48 @@
         "rarity": 4,
         "tags": [
           "Nuker",
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
           "DPS",
           "Melee",
           "Guard"
@@ -3808,6 +4579,30 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_237_gravel",
         "name": "Gravel",
         "rarity": 4,
@@ -3869,6 +4664,18 @@
           "Melee",
           "Defender"
         ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
+        ]
       }
     ],
     "guarantees": []
@@ -3909,6 +4716,17 @@
         "tags": [
           "Fast-Redeploy",
           "Defense",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
           "Melee",
           "Specialist"
         ]
@@ -4059,6 +4877,17 @@
         ]
       },
       {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
         "id": "char_120_hibisc",
         "name": "Hibiscus",
         "rarity": 3,
@@ -4094,6 +4923,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -4121,6 +4951,18 @@
         ]
       },
       {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_301_cutter",
         "name": "Cutter",
         "rarity": 4,
@@ -4136,6 +4978,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -4268,6 +5111,18 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_118_yuki",
         "name": "Shirayuki",
         "rarity": 4,
@@ -4330,6 +5185,17 @@
           "Slow",
           "Ranged",
           "Sniper"
+        ]
+      },
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
         ]
       },
       {
@@ -4421,6 +5287,30 @@
         ]
       },
       {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_385_finlpp",
         "name": "Purestream",
         "rarity": 4,
@@ -4447,6 +5337,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -4458,6 +5349,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -4532,6 +5424,18 @@
           "Survival",
           "Melee",
           "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
           "Senior Operator"
         ]
       },
@@ -4858,6 +5762,86 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5001,6 +5985,59 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5129,6 +6166,33 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5218,6 +6282,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5289,6 +6367,31 @@
         "tags": [
           "DPS",
           "Survival",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Top Operator",
@@ -5366,6 +6469,19 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5404,6 +6520,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5423,6 +6553,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -5553,6 +6697,33 @@
           "DPS",
           "Melee",
           "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
           "Top Operator",
           "Senior Operator"
         ]
@@ -5786,6 +6957,86 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -5843,6 +7094,33 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -5954,6 +7232,31 @@
       6
     ]
   },
+  "Shift,Top Operator": {
+    "tags": [
+      "Shift",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
   "Slow,Top Operator": {
     "tags": [
       "Slow",
@@ -5967,6 +7270,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -6078,6 +7395,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -6125,6 +7456,20 @@
           "Survival",
           "Melee",
           "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
           "Top Operator",
           "Senior Operator"
         ]
@@ -6356,6 +7701,65 @@
           "Defender",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -6575,6 +7979,65 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -6606,6 +8069,30 @@
         "rarity": 5,
         "tags": [
           "DPS",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
           "Ranged",
           "Caster",
           "Senior Operator"
@@ -6682,6 +8169,18 @@
           "Defender",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -6749,6 +8248,29 @@
         "tags": [
           "AoE",
           "Survival",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -6901,6 +8423,29 @@
           "Sniper",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -7041,6 +8586,18 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -7080,6 +8637,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -7156,6 +8737,42 @@
           "Debuff",
           "Ranged",
           "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       }
@@ -7256,6 +8873,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -7464,6 +9105,76 @@
           "Caster",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -7617,6 +9328,30 @@
           "Defender",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -7758,6 +9493,18 @@
           "Sniper",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -7865,6 +9612,18 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -7947,6 +9706,30 @@
           "Guard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -8017,6 +9800,18 @@
           "Survival",
           "Melee",
           "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
           "Senior Operator"
         ]
       }
@@ -8190,6 +9985,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -8201,9 +9997,22 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
+          "Robot"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -8223,6 +10032,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -8234,9 +10044,33 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
+          "Robot"
+        ]
+      }
+    ],
+    "guarantees": [
+      1
+    ]
+  },
+  "Defender,Robot": {
+    "tags": [
+      "Defender",
+      "Robot"
+    ],
+    "operators": [
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -8256,6 +10090,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -8278,6 +10113,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -8300,6 +10136,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -8322,9 +10159,33 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
+          "Robot"
+        ]
+      }
+    ],
+    "guarantees": [
+      1
+    ]
+  },
+  "Defense,Robot": {
+    "tags": [
+      "Defense",
+      "Robot"
+    ],
+    "operators": [
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -8344,6 +10205,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -8366,6 +10228,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -8388,6 +10251,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -8399,6 +10263,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -8478,6 +10343,18 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_199_yak",
         "name": "Matterhorn",
         "rarity": 4,
@@ -8537,6 +10414,18 @@
           "Starter",
           "Melee",
           "Defender"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
         ]
       }
     ],
@@ -8603,6 +10492,29 @@
         "tags": [
           "AoE",
           "Survival",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -8695,6 +10607,16 @@
         ]
       },
       {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
         "id": "char_208_melan",
         "name": "Melantha",
         "rarity": 3,
@@ -8731,6 +10653,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -8838,10 +10761,22 @@
         ]
       },
       {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
         "id": "char_376_therex",
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -8886,6 +10821,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -9003,6 +10962,18 @@
         ]
       },
       {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_127_estell",
         "name": "Estelle",
         "rarity": 4,
@@ -9095,6 +11066,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -9275,6 +11270,53 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_149_scave",
         "name": "Scavenger",
         "rarity": 4,
@@ -9366,6 +11408,27 @@
         "rarity": 4,
         "tags": [
           "Nuker",
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
           "DPS",
           "Melee",
           "Guard"
@@ -9509,6 +11572,18 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_237_gravel",
         "name": "Gravel",
         "rarity": 4,
@@ -9570,6 +11645,18 @@
           "Melee",
           "Defender"
         ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
+        ]
       }
     ],
     "guarantees": []
@@ -9611,6 +11698,17 @@
         "tags": [
           "Fast-Redeploy",
           "Defense",
+          "Melee",
+          "Specialist"
+        ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
           "Melee",
           "Specialist"
         ]
@@ -9708,6 +11806,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -9851,6 +11950,18 @@
         ]
       },
       {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_130_doberm",
         "name": "Dobermann",
         "rarity": 4,
@@ -9866,6 +11977,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -10033,6 +12145,30 @@
         ]
       },
       {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_141_nights",
         "name": "Haze",
         "rarity": 4,
@@ -10060,6 +12196,17 @@
         "tags": [
           "AoE",
           "Slow",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
           "Ranged",
           "Caster"
         ]
@@ -10214,6 +12361,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -10321,6 +12469,29 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_235_jesica",
         "name": "Jessica",
         "rarity": 4,
@@ -10386,6 +12557,16 @@
         ]
       },
       {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
         "id": "char_211_adnach",
         "name": "Adnachiel",
         "rarity": 3,
@@ -10430,6 +12611,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -10504,11 +12686,34 @@
         ]
       },
       {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_183_skgoat",
         "name": "Earthspirit",
         "rarity": 4,
         "tags": [
           "Slow",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
           "Ranged",
           "Supporter"
         ]
@@ -10564,6 +12769,30 @@
           "Debuff",
           "Ranged",
           "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       },
@@ -10651,10 +12880,21 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
       }
     ],
     "guarantees": [
-      5
+      4
     ]
   },
   "DPS,Ranged": {
@@ -10756,6 +12996,29 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_141_nights",
         "name": "Haze",
         "rarity": 4,
@@ -10816,6 +13079,27 @@
         "tags": [
           "DPS",
           "Slow",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
           "Ranged",
           "Sniper"
         ]
@@ -10932,6 +13216,29 @@
       4
     ]
   },
+  "Defense,Ranged": {
+    "tags": [
+      "Defense",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Healing,Ranged": {
     "tags": [
       "Healing",
@@ -11028,6 +13335,17 @@
         ]
       },
       {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
         "id": "char_120_hibisc",
         "name": "Hibiscus",
         "rarity": 3,
@@ -11052,6 +13370,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -11076,6 +13395,18 @@
           "Nuker",
           "Ranged",
           "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       }
@@ -11124,6 +13455,18 @@
           "Crowd-Control",
           "Ranged",
           "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
           "Senior Operator"
         ]
       },
@@ -11179,6 +13522,17 @@
           "Slow",
           "Ranged",
           "Sniper"
+        ]
+      },
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
         ]
       },
       {
@@ -11248,6 +13602,18 @@
         ]
       },
       {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_385_finlpp",
         "name": "Purestream",
         "rarity": 4,
@@ -11263,6 +13629,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -11280,6 +13647,18 @@
       "Survival"
     ],
     "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      },
       {
         "id": "char_235_jesica",
         "name": "Jessica",
@@ -11302,6 +13681,30 @@
       "Caster"
     ],
     "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
       {
         "id": "char_109_fmout",
         "name": "Gitano",
@@ -11335,6 +13738,28 @@
       }
     ],
     "guarantees": []
+  },
+  "Caster,Crowd-Control": {
+    "tags": [
+      "Caster",
+      "Crowd-Control"
+    ],
+    "operators": [
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
   },
   "Caster,DPS": {
     "tags": [
@@ -11378,6 +13803,17 @@
         ]
       },
       {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
         "id": "char_210_stward",
         "name": "Steward",
         "rarity": 3,
@@ -11412,6 +13848,29 @@
       4
     ]
   },
+  "Caster,Defense": {
+    "tags": [
+      "Caster",
+      "Defense"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Caster,Healing": {
     "tags": [
       "Caster",
@@ -11426,6 +13885,29 @@
           "DPS",
           "Healing",
           "Slow",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Caster,Nuker": {
+    "tags": [
+      "Caster",
+      "Nuker"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
           "Ranged",
           "Caster",
           "Senior Operator"
@@ -11493,6 +13975,18 @@
       {
         "id": "char_107_liskam",
         "name": "Liskarm",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
         "rarity": 5,
         "tags": [
           "Defense",
@@ -11575,6 +14069,18 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_199_yak",
         "name": "Matterhorn",
         "rarity": 4,
@@ -11624,6 +14130,18 @@
           "Healing",
           "Melee",
           "Defender"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
         ]
       }
     ],
@@ -11762,6 +14280,18 @@
         ]
       },
       {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_127_estell",
         "name": "Estelle",
         "rarity": 4,
@@ -11823,6 +14353,29 @@
         "tags": [
           "DPS",
           "Defense",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -11898,6 +14451,16 @@
         "rarity": 4,
         "tags": [
           "Nuker",
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
           "DPS",
           "Melee",
           "Guard"
@@ -12028,6 +14591,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -12246,6 +14810,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -12429,6 +14994,29 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_235_jesica",
         "name": "Jessica",
         "rarity": 4,
@@ -12478,6 +15066,16 @@
         "tags": [
           "DPS",
           "Slow",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
           "Ranged",
           "Sniper"
         ]
@@ -12581,6 +15179,18 @@
     ],
     "operators": [
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_118_yuki",
         "name": "Shirayuki",
         "rarity": 4,
@@ -12629,6 +15239,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -12714,10 +15325,21 @@
           "Specialist",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
       }
     ],
     "guarantees": [
-      5
+      4
     ]
   },
   "Debuff,Specialist": {
@@ -12805,6 +15427,17 @@
           "Melee",
           "Specialist"
         ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
       }
     ],
     "guarantees": [
@@ -12822,6 +15455,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -13025,6 +15659,28 @@
       5
     ]
   },
+  "Healing,Supporter": {
+    "tags": [
+      "Healing",
+      "Supporter"
+    ],
+    "operators": [
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
+  },
   "Slow,Supporter": {
     "tags": [
       "Slow",
@@ -13066,6 +15722,17 @@
         ]
       },
       {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
         "id": "char_278_orchid",
         "name": "Orchid",
         "rarity": 3,
@@ -13091,6 +15758,52 @@
         "tags": [
           "Summon",
           "Crowd-Control",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Support,Supporter": {
+    "tags": [
+      "Support",
+      "Supporter"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Supporter,Survival": {
+    "tags": [
+      "Supporter",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
           "Ranged",
           "Supporter",
           "Senior Operator"
@@ -13157,6 +15870,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -13252,6 +15989,18 @@
         ]
       },
       {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_149_scave",
         "name": "Scavenger",
         "rarity": 4,
@@ -13326,6 +16075,41 @@
           "Vanguard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,DPS": {
+    "tags": [
+      "AoE",
+      "DPS"
+    ],
+    "operators": [
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -13359,6 +16143,52 @@
           "Debuff",
           "Ranged",
           "Sniper",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Defense": {
+    "tags": [
+      "AoE",
+      "Defense"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Nuker": {
+    "tags": [
+      "AoE",
+      "Nuker"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       }
@@ -13478,6 +16308,28 @@
       5
     ]
   },
+  "Crowd-Control,DPS": {
+    "tags": [
+      "Crowd-Control",
+      "DPS"
+    ],
+    "operators": [
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
+  },
   "Crowd-Control,Fast-Redeploy": {
     "tags": [
       "Crowd-Control",
@@ -13566,6 +16418,18 @@
         ]
       },
       {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_149_scave",
         "name": "Scavenger",
         "rarity": 4,
@@ -13632,6 +16496,18 @@
       {
         "id": "char_115_headbr",
         "name": "Zima",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -13721,10 +16597,44 @@
           "Guard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
       5
+    ]
+  },
+  "DPS,Fast-Redeploy": {
+    "tags": [
+      "DPS",
+      "Fast-Redeploy"
+    ],
+    "operators": [
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
     ]
   },
   "DPS,Healing": {
@@ -13836,6 +16746,18 @@
           "Slow",
           "Ranged",
           "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
           "Senior Operator"
         ]
       },
@@ -14166,10 +17088,21 @@
           "Caster",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
       }
     ],
     "guarantees": [
-      5
+      4
     ]
   },
   "Healing,Support": {
@@ -14233,6 +17166,29 @@
           "Slow",
           "Melee",
           "Specialist",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Support,Survival": {
+    "tags": [
+      "Support",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
           "Senior Operator"
         ]
       }
@@ -14379,6 +17335,59 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -14508,6 +17517,33 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -14599,6 +17635,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -14671,6 +17721,31 @@
         "tags": [
           "DPS",
           "Survival",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Top Operator",
@@ -14750,6 +17825,19 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -14789,6 +17877,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -14809,6 +17911,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -14942,6 +18058,33 @@
           "DPS",
           "Melee",
           "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
           "Top Operator",
           "Senior Operator"
         ]
@@ -15177,6 +18320,86 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -15236,6 +18459,33 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -15350,6 +18600,32 @@
       6
     ]
   },
+  "Senior Operator,Shift,Top Operator": {
+    "tags": [
+      "Senior Operator",
+      "Shift",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
   "Senior Operator,Slow,Top Operator": {
     "tags": [
       "Senior Operator",
@@ -15364,6 +18640,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -15476,6 +18766,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -15527,6 +18831,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -15561,6 +18879,20 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -15643,6 +18975,31 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -15664,6 +19021,20 @@
           "Fast-Redeploy",
           "Crowd-Control",
           "DPS",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
           "Melee",
           "Specialist",
           "Top Operator",
@@ -15728,6 +19099,20 @@
           "Fast-Redeploy",
           "Crowd-Control",
           "DPS",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
           "Melee",
           "Specialist",
           "Top Operator",
@@ -15901,6 +19286,59 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -15935,6 +19373,33 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -16014,6 +19479,32 @@
           "DPS",
           "Melee",
           "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
+  "Melee,Shift,Top Operator": {
+    "tags": [
+      "Melee",
+      "Shift",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
           "Top Operator",
           "Senior Operator"
         ]
@@ -16104,6 +19595,20 @@
           "Survival",
           "Melee",
           "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
           "Top Operator",
           "Senior Operator"
         ]
@@ -16233,6 +19738,19 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -16278,6 +19796,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -16362,6 +19894,19 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -16435,6 +19980,33 @@
           "Crowd-Control",
           "Ranged",
           "Caster",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
           "Top Operator",
           "Senior Operator"
         ]
@@ -16527,6 +20099,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -16603,6 +20189,20 @@
           "DPS",
           "Ranged",
           "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
           "Top Operator",
           "Senior Operator"
         ]
@@ -16785,6 +20385,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -16819,6 +20433,20 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -16871,6 +20499,32 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
+  "Defender,Survival,Top Operator": {
+    "tags": [
+      "Defender",
+      "Survival",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -16948,6 +20602,56 @@
         "tags": [
           "DPS",
           "Survival",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_350_surtr",
+        "name": "Surtr",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
+  "Defense,Guard,Top Operator": {
+    "tags": [
+      "Defense",
+      "Guard",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
           "Melee",
           "Guard",
           "Top Operator",
@@ -17136,6 +20840,31 @@
       6
     ]
   },
+  "Crowd-Control,Sniper,Top Operator": {
+    "tags": [
+      "Crowd-Control",
+      "Sniper",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
   "DPS,Sniper,Top Operator": {
     "tags": [
       "DPS",
@@ -17166,6 +20895,19 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17187,6 +20929,20 @@
           "Fast-Redeploy",
           "Crowd-Control",
           "DPS",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
           "Melee",
           "Specialist",
           "Top Operator",
@@ -17231,6 +20987,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17252,6 +21022,32 @@
           "Fast-Redeploy",
           "Crowd-Control",
           "DPS",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
+  "Shift,Specialist,Top Operator": {
+    "tags": [
+      "Shift",
+      "Specialist",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
           "Melee",
           "Specialist",
           "Top Operator",
@@ -17308,6 +21104,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17334,6 +21144,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17354,6 +21178,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -17552,6 +21390,33 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_197_poca",
+        "name": "Rosa",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Sniper",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17573,6 +21438,32 @@
           "Fast-Redeploy",
           "Crowd-Control",
           "DPS",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
+  "Crowd-Control,Shift,Top Operator": {
+    "tags": [
+      "Crowd-Control",
+      "Shift",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
           "Melee",
           "Specialist",
           "Top Operator",
@@ -17667,6 +21558,33 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_293_thorns",
+        "name": "Thorns",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Defense",
+          "Melee",
+          "Guard",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17724,6 +21642,32 @@
       6
     ]
   },
+  "DPS,Shift,Top Operator": {
+    "tags": [
+      "DPS",
+      "Shift",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_400_weedy",
+        "name": "Weedy",
+        "rarity": 6,
+        "tags": [
+          "Shift",
+          "DPS",
+          "Crowd-Control",
+          "Melee",
+          "Specialist",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
   "DPS,Slow,Top Operator": {
     "tags": [
       "DPS",
@@ -17738,6 +21682,20 @@
         "tags": [
           "Support",
           "Slow",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
           "DPS",
           "Ranged",
           "Supporter",
@@ -17796,6 +21754,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17847,6 +21819,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -17894,6 +21880,32 @@
           "Defense",
           "Healing",
           "Support",
+          "Melee",
+          "Defender",
+          "Top Operator",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      6
+    ]
+  },
+  "Defense,Survival,Top Operator": {
+    "tags": [
+      "Defense",
+      "Survival",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_416_zumama",
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": [
+          "DPS",
+          "Survival",
+          "Defense",
           "Melee",
           "Defender",
           "Top Operator",
@@ -17977,6 +21989,20 @@
           "Top Operator",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_358_lisa",
+        "name": "Suzuran",
+        "rarity": 6,
+        "tags": [
+          "Slow",
+          "Support",
+          "DPS",
+          "Ranged",
+          "Supporter",
+          "Top Operator",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -18050,6 +22076,18 @@
           "Defender",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -18118,6 +22156,29 @@
         "tags": [
           "AoE",
           "Survival",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -18242,6 +22303,30 @@
           "Vanguard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -18274,6 +22359,18 @@
         "tags": [
           "AoE",
           "Survival",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -18354,6 +22451,30 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -18471,6 +22592,53 @@
           "Vanguard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -18576,6 +22744,18 @@
         "tags": [
           "Defense",
           "Healing",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
           "Melee",
           "Defender",
           "Senior Operator"
@@ -18760,6 +22940,18 @@
           "Guard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -18865,6 +23057,30 @@
         "rarity": 5,
         "tags": [
           "DPS",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
           "Ranged",
           "Caster",
           "Senior Operator"
@@ -19019,6 +23235,29 @@
           "Sniper",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -19089,6 +23328,18 @@
           "Supporter",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -19134,6 +23385,30 @@
           "Debuff",
           "Ranged",
           "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       }
@@ -19276,6 +23551,29 @@
           "Caster",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -19332,6 +23630,30 @@
           "Debuff",
           "Ranged",
           "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Defense,Ranged,Senior Operator": {
+    "tags": [
+      "Defense",
+      "Ranged",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       }
@@ -19418,6 +23740,18 @@
           "Sniper",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -19465,6 +23799,18 @@
           "Crowd-Control",
           "Ranged",
           "Supporter",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
           "Senior Operator"
         ]
       }
@@ -19527,6 +23873,78 @@
           "Medic",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Ranged,Senior Operator,Survival": {
+    "tags": [
+      "Ranged",
+      "Senior Operator",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Caster,Senior Operator": {
+    "tags": [
+      "AoE",
+      "Caster",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -19569,6 +23987,30 @@
       5
     ]
   },
+  "Caster,Defense,Senior Operator": {
+    "tags": [
+      "Caster",
+      "Defense",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Caster,Healing,Senior Operator": {
     "tags": [
       "Caster",
@@ -19584,6 +24026,30 @@
           "DPS",
           "Healing",
           "Slow",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Caster,Nuker,Senior Operator": {
+    "tags": [
+      "Caster",
+      "Nuker",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
           "Ranged",
           "Caster",
           "Senior Operator"
@@ -19642,6 +24108,18 @@
       {
         "id": "char_107_liskam",
         "name": "Liskarm",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
         "rarity": 5,
         "tags": [
           "Defense",
@@ -19719,6 +24197,18 @@
         "tags": [
           "Defense",
           "Healing",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
           "Melee",
           "Defender",
           "Senior Operator"
@@ -19844,6 +24334,18 @@
           "Guard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -19888,6 +24390,29 @@
         "tags": [
           "DPS",
           "Defense",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -20186,6 +24711,29 @@
           "Sniper",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -20242,6 +24790,30 @@
         "tags": [
           "DPS",
           "Nuker",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Senior Operator,Slow,Sniper": {
+    "tags": [
+      "Senior Operator",
+      "Slow",
+      "Sniper"
+    ],
+    "operators": [
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
           "Ranged",
           "Sniper",
           "Senior Operator"
@@ -20610,6 +25182,54 @@
       5
     ]
   },
+  "Senior Operator,Support,Supporter": {
+    "tags": [
+      "Senior Operator",
+      "Support",
+      "Supporter"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Senior Operator,Supporter,Survival": {
+    "tags": [
+      "Senior Operator",
+      "Supporter",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Crowd-Control,Senior Operator,Vanguard": {
     "tags": [
       "Crowd-Control",
@@ -20676,6 +25296,30 @@
           "Vanguard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -20692,6 +25336,18 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -20722,6 +25378,42 @@
           "Support",
           "Melee",
           "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,DPS,Senior Operator": {
+    "tags": [
+      "AoE",
+      "DPS",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
           "Senior Operator"
         ]
       }
@@ -20758,6 +25450,54 @@
           "Debuff",
           "Ranged",
           "Sniper",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Defense,Senior Operator": {
+    "tags": [
+      "AoE",
+      "Defense",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Nuker,Senior Operator": {
+    "tags": [
+      "AoE",
+      "Nuker",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
           "Senior Operator"
         ]
       }
@@ -20916,6 +25656,18 @@
           "Vanguard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -20932,6 +25684,18 @@
       {
         "id": "char_115_headbr",
         "name": "Zima",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -20987,6 +25751,18 @@
           "Defense",
           "Melee",
           "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
           "Senior Operator"
         ]
       }
@@ -21097,6 +25873,18 @@
           "Slow",
           "Ranged",
           "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
           "Senior Operator"
         ]
       }
@@ -21372,6 +26160,30 @@
       5
     ]
   },
+  "Senior Operator,Support,Survival": {
+    "tags": [
+      "Senior Operator",
+      "Support",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Defender,Melee,Starter": {
     "tags": [
       "Defender",
@@ -21462,6 +26274,30 @@
     ],
     "guarantees": []
   },
+  "Defender,Melee,Robot": {
+    "tags": [
+      "Defender",
+      "Melee",
+      "Robot"
+    ],
+    "operators": [
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
+        ]
+      }
+    ],
+    "guarantees": [
+      1
+    ]
+  },
   "Guard,Melee,Robot": {
     "tags": [
       "Guard",
@@ -21474,6 +26310,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -21497,9 +26334,34 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
+          "Robot"
+        ]
+      }
+    ],
+    "guarantees": [
+      1
+    ]
+  },
+  "Defense,Melee,Robot": {
+    "tags": [
+      "Defense",
+      "Melee",
+      "Robot"
+    ],
+    "operators": [
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -21520,6 +26382,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -21543,6 +26406,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -21566,6 +26430,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -21589,6 +26454,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -21612,6 +26478,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -21635,9 +26502,34 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
+          "Robot"
+        ]
+      }
+    ],
+    "guarantees": [
+      1
+    ]
+  },
+  "Defender,Defense,Robot": {
+    "tags": [
+      "Defender",
+      "Defense",
+      "Robot"
+    ],
+    "operators": [
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
           "Robot"
         ]
       }
@@ -21658,6 +26550,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -21681,6 +26574,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -21704,6 +26598,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -21727,6 +26622,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -21761,6 +26657,18 @@
       {
         "id": "char_107_liskam",
         "name": "Liskarm",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
         "rarity": 5,
         "tags": [
           "Defense",
@@ -21844,6 +26752,18 @@
         ]
       },
       {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_199_yak",
         "name": "Matterhorn",
         "rarity": 4,
@@ -21893,6 +26813,18 @@
           "Healing",
           "Melee",
           "Defender"
+        ]
+      },
+      {
+        "id": "char_4093_frston",
+        "name": "Friston-3",
+        "rarity": 1,
+        "tags": [
+          "Robot",
+          "Defense",
+          "Melee",
+          "Defender",
+          "Robot"
         ]
       }
     ],
@@ -22035,6 +26967,18 @@
         ]
       },
       {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_127_estell",
         "name": "Estelle",
         "rarity": 4,
@@ -22097,6 +27041,29 @@
         "tags": [
           "DPS",
           "Defense",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_415_flint",
+        "name": "Flint",
+        "rarity": 5,
+        "tags": [
+          "DPS",
           "Melee",
           "Guard",
           "Senior Operator"
@@ -22172,6 +27139,16 @@
         "rarity": 4,
         "tags": [
           "Nuker",
+          "DPS",
+          "Melee",
+          "Guard"
+        ]
+      },
+      {
+        "id": "char_271_spikes",
+        "name": "Arene",
+        "rarity": 4,
+        "tags": [
           "DPS",
           "Melee",
           "Guard"
@@ -22306,6 +27283,7 @@
         "name": "Castle-3",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Melee",
           "Guard",
@@ -22472,10 +27450,21 @@
           "Specialist",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
       }
     ],
     "guarantees": [
-      5
+      4
     ]
   },
   "Debuff,Melee,Specialist": {
@@ -22566,6 +27555,17 @@
           "Melee",
           "Specialist"
         ]
+      },
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
       }
     ],
     "guarantees": [
@@ -22584,6 +27584,7 @@
         "name": "Thermal-EX",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Nuker",
           "Melee",
           "Specialist",
@@ -22767,6 +27768,30 @@
         ]
       },
       {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_149_scave",
         "name": "Scavenger",
         "rarity": 4,
@@ -22853,6 +27878,18 @@
         ]
       },
       {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_149_scave",
         "name": "Scavenger",
         "rarity": 4,
@@ -22927,6 +27964,42 @@
           "Support",
           "Melee",
           "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,DPS,Melee": {
+    "tags": [
+      "AoE",
+      "DPS",
+      "Melee"
+    ],
+    "operators": [
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
           "Senior Operator"
         ]
       }
@@ -23059,6 +28132,18 @@
         ]
       },
       {
+        "id": "char_349_chiave",
+        "name": "Chiave",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_149_scave",
         "name": "Scavenger",
         "rarity": 4,
@@ -23135,6 +28220,18 @@
           "Vanguard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -23184,10 +28281,45 @@
           "Guard",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
       5
+    ]
+  },
+  "DPS,Fast-Redeploy,Melee": {
+    "tags": [
+      "DPS",
+      "Fast-Redeploy",
+      "Melee"
+    ],
+    "operators": [
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
     ]
   },
   "DPS,Melee,Nuker": {
@@ -23559,6 +28691,30 @@
     ],
     "operators": [
       {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_109_fmout",
         "name": "Gitano",
         "rarity": 4,
@@ -23591,6 +28747,29 @@
       }
     ],
     "guarantees": []
+  },
+  "Caster,Crowd-Control,Ranged": {
+    "tags": [
+      "Caster",
+      "Crowd-Control",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
   },
   "Caster,DPS,Ranged": {
     "tags": [
@@ -23635,6 +28814,17 @@
         ]
       },
       {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
+          "Ranged",
+          "Caster"
+        ]
+      },
+      {
         "id": "char_210_stward",
         "name": "Steward",
         "rarity": 3,
@@ -23670,6 +28860,30 @@
       4
     ]
   },
+  "Caster,Defense,Ranged": {
+    "tags": [
+      "Caster",
+      "Defense",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Caster,Healing,Ranged": {
     "tags": [
       "Caster",
@@ -23685,6 +28899,30 @@
           "DPS",
           "Healing",
           "Slow",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Caster,Nuker,Ranged": {
+    "tags": [
+      "Caster",
+      "Nuker",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
           "Ranged",
           "Caster",
           "Senior Operator"
@@ -23839,6 +29077,7 @@
         "name": "Lancet-2",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Healing",
           "Ranged",
           "Medic",
@@ -24025,6 +29264,29 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_365_aprl",
+        "name": "April",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_235_jesica",
         "name": "Jessica",
         "rarity": 4,
@@ -24074,6 +29336,16 @@
         "tags": [
           "DPS",
           "Slow",
+          "Ranged",
+          "Sniper"
+        ]
+      },
+      {
+        "id": "char_366_acdrop",
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": [
+          "DPS",
           "Ranged",
           "Sniper"
         ]
@@ -24180,6 +29452,18 @@
     ],
     "operators": [
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_118_yuki",
         "name": "Shirayuki",
         "rarity": 4,
@@ -24229,6 +29513,7 @@
         "name": "'Justice Knight'",
         "rarity": 1,
         "tags": [
+          "Robot",
           "Support",
           "Ranged",
           "Sniper",
@@ -24357,6 +29642,29 @@
       5
     ]
   },
+  "Healing,Ranged,Supporter": {
+    "tags": [
+      "Healing",
+      "Ranged",
+      "Supporter"
+    ],
+    "operators": [
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
+  },
   "Ranged,Slow,Supporter": {
     "tags": [
       "Ranged",
@@ -24399,6 +29707,17 @@
         ]
       },
       {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      },
+      {
         "id": "char_278_orchid",
         "name": "Orchid",
         "rarity": 3,
@@ -24425,6 +29744,54 @@
         "tags": [
           "Summon",
           "Crowd-Control",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Ranged,Support,Supporter": {
+    "tags": [
+      "Ranged",
+      "Support",
+      "Supporter"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "Ranged,Supporter,Survival": {
+    "tags": [
+      "Ranged",
+      "Supporter",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
           "Ranged",
           "Supporter",
           "Senior Operator"
@@ -24471,6 +29838,54 @@
       5
     ]
   },
+  "AoE,Defense,Ranged": {
+    "tags": [
+      "AoE",
+      "Defense",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Nuker,Ranged": {
+    "tags": [
+      "AoE",
+      "Nuker",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "AoE,Ranged,Slow": {
     "tags": [
       "AoE",
@@ -24496,6 +29911,29 @@
         "tags": [
           "AoE",
           "Slow",
+          "Ranged",
+          "Caster"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
+  },
+  "Crowd-Control,DPS,Ranged": {
+    "tags": [
+      "Crowd-Control",
+      "DPS",
+      "Ranged"
+    ],
+    "operators": [
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
           "Ranged",
           "Caster"
         ]
@@ -24669,6 +30107,18 @@
         ]
       },
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_133_mm",
         "name": "May",
         "rarity": 4,
@@ -24737,10 +30187,21 @@
           "Caster",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
       }
     ],
     "guarantees": [
-      5
+      4
     ]
   },
   "Healing,Ranged,Support": {
@@ -24790,6 +30251,78 @@
       4
     ]
   },
+  "Ranged,Support,Survival": {
+    "tags": [
+      "Ranged",
+      "Support",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Caster,Defense": {
+    "tags": [
+      "AoE",
+      "Caster",
+      "Defense"
+    ],
+    "operators": [
+      {
+        "id": "char_344_beewax",
+        "name": "Beeswax",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Defense",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,Caster,Nuker": {
+    "tags": [
+      "AoE",
+      "Caster",
+      "Nuker"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name": "Leonhardt",
+        "rarity": 5,
+        "tags": [
+          "AoE",
+          "Nuker",
+          "Ranged",
+          "Caster",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "AoE,Caster,Slow": {
     "tags": [
       "AoE",
@@ -24804,6 +30337,29 @@
         "tags": [
           "AoE",
           "Slow",
+          "Ranged",
+          "Caster"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
+  },
+  "Caster,Crowd-Control,DPS": {
+    "tags": [
+      "Caster",
+      "Crowd-Control",
+      "DPS"
+    ],
+    "operators": [
+      {
+        "id": "char_328_cammou",
+        "name": "Click",
+        "rarity": 4,
+        "tags": [
+          "DPS",
+          "Crowd-Control",
           "Ranged",
           "Caster"
         ]
@@ -24942,6 +30498,18 @@
           "Defender",
           "Senior Operator"
         ]
+      },
+      {
+        "id": "char_378_asbest",
+        "name": "Asbestos",
+        "rarity": 5,
+        "tags": [
+          "Defense",
+          "DPS",
+          "Melee",
+          "Defender",
+          "Senior Operator"
+        ]
       }
     ],
     "guarantees": [
@@ -25070,6 +30638,30 @@
           "DPS",
           "Melee",
           "Defender",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
+  "AoE,DPS,Guard": {
+    "tags": [
+      "AoE",
+      "DPS",
+      "Guard"
+    ],
+    "operators": [
+      {
+        "id": "char_294_ayer",
+        "name": "Ayerscarpe",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "AoE",
+          "Melee",
+          "Guard",
           "Senior Operator"
         ]
       }
@@ -25455,6 +31047,18 @@
     ],
     "operators": [
       {
+        "id": "char_218_cuttle",
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": [
+          "DPS",
+          "Slow",
+          "Ranged",
+          "Sniper",
+          "Senior Operator"
+        ]
+      },
+      {
         "id": "char_133_mm",
         "name": "May",
         "rarity": 4,
@@ -25526,6 +31130,29 @@
     ],
     "guarantees": [
       5
+    ]
+  },
+  "DPS,Fast-Redeploy,Specialist": {
+    "tags": [
+      "DPS",
+      "Fast-Redeploy",
+      "Specialist"
+    ],
+    "operators": [
+      {
+        "id": "char_272_strong",
+        "name": "Jaye",
+        "rarity": 4,
+        "tags": [
+          "Fast-Redeploy",
+          "DPS",
+          "Melee",
+          "Specialist"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
     ]
   },
   "DPS,Shift,Specialist": {
@@ -25719,6 +31346,53 @@
       5
     ]
   },
+  "Healing,Slow,Supporter": {
+    "tags": [
+      "Healing",
+      "Slow",
+      "Supporter"
+    ],
+    "operators": [
+      {
+        "id": "char_258_podego",
+        "name": "Podenco",
+        "rarity": 4,
+        "tags": [
+          "Slow",
+          "Healing",
+          "Ranged",
+          "Supporter"
+        ]
+      }
+    ],
+    "guarantees": [
+      4
+    ]
+  },
+  "Support,Supporter,Survival": {
+    "tags": [
+      "Support",
+      "Supporter",
+      "Survival"
+    ],
+    "operators": [
+      {
+        "id": "char_343_tknogi",
+        "name": "Tsukinogi",
+        "rarity": 5,
+        "tags": [
+          "Support",
+          "Survival",
+          "Ranged",
+          "Supporter",
+          "Senior Operator"
+        ]
+      }
+    ],
+    "guarantees": [
+      5
+    ]
+  },
   "Crowd-Control,DP-Recovery,Vanguard": {
     "tags": [
       "Crowd-Control",
@@ -25753,6 +31427,18 @@
       {
         "id": "char_261_sddrag",
         "name": "Reed",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "DPS",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_349_chiave",
+        "name": "Chiave",
         "rarity": 5,
         "tags": [
           "DP-Recovery",
@@ -25831,6 +31517,18 @@
       {
         "id": "char_115_headbr",
         "name": "Zima",
+        "rarity": 5,
+        "tags": [
+          "DP-Recovery",
+          "Support",
+          "Melee",
+          "Vanguard",
+          "Senior Operator"
+        ]
+      },
+      {
+        "id": "char_401_elysm",
+        "name": "Elysium",
         "rarity": 5,
         "tags": [
           "DP-Recovery",

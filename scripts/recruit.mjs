@@ -4,8 +4,8 @@ import { fileURLToPath } from "url";
 
 import { Combination } from "js-combinatorics";
 
-import characterTable from "./ArknightsGameData/en_US/gamedata/excel/character_table.json" assert { type: "json" };
-import gachaTable from "./ArknightsGameData/en_US/gamedata/excel/gacha_table.json" assert { type: "json" };
+import characterTable from "./ArknightsGameData_YoStar/en_US/gamedata/excel/character_table.json" assert { type: "json" };
+import gachaTable from "./ArknightsGameData_YoStar/en_US/gamedata/excel/gacha_table.json" assert { type: "json" };
 
 export function professionToClass(profession) {
   switch (profession) {
@@ -78,7 +78,7 @@ const { recruitDetail } = gachaTable;
 
 const createRecruitmentJson = () => {
   const operatorNameToId = Object.fromEntries(
-    Object.entries(characterTable).map(([id, opData]) => [opData.name, id])
+    Object.entries(characterTable).filter(([id]) => !id.startsWith("trap")).map(([id, opData]) => [opData.name, id])
   );
 
   const recruitmentStrings = recruitDetail

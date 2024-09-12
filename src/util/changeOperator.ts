@@ -613,7 +613,7 @@ export const getMaxPotentialById = (opId: string) => {
     case "char_4067_lolxh":
       return 1;
     case "char_230_savage":
-      return 4;
+      return 5;
     default:
       return 6;
   }
@@ -648,8 +648,13 @@ export const changePotential = (op: Operator, value: number) => {
 
 export const changePromotion = (op: Operator, value: number) => {
   if (!op.owned) return op;
+  const prevPromotion = op.promotion;
   op.promotion = minMax(0, value, MAX_PROMOTION_BY_RARITY[op.rarity])
   op = changeLevel(op, op.level);
+  // reset Operator level
+  if (value > prevPromotion) {
+    op.level = 1;
+  }
   op = changeSkillLevel(op, op.skillLevel);
   if (value !== 2) {
     op.module = [];
